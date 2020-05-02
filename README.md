@@ -1,2 +1,2 @@
 # PercyKit
-Percykit es un kit de interfaz de usuario con base Bootstrap 4.
+Es un kit de interfaz de usuario con base Bootstrap 4.
